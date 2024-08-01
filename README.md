@@ -1,10 +1,13 @@
-Check [This PR](https://github.com/mahmoudmoravej/remix-mui/pull/1) To see what changes you need to integrate MUI in your Remix app.
+# Crypto Portfolio Summing
+Sums blockchain exchanges and wallets
 
 ---
+See [this PR](https://github.com/mahmoudmoravej/remix-mui/pull/1) for changes to add MUI and Remix.
+<br/><br/> 
+--- 
+<br/>
 
-# Welcome to Remix + Vite!
-
-📖 See the [Remix docs](https://remix.run/docs) and the [Remix Vite docs](https://remix.run/docs/en/main/future/vite) for details on supported features.
+📖 [Remix docs](https://remix.run/docs) and  [Remix Vite docs](https://remix.run/docs/en/main/future/vite)
 
 ## Development
 
